@@ -1,0 +1,54 @@
+body{
+    background-color: #f3f1ff;
+}
+.navbar img{
+    width: 40.42px;
+}
+.navbar-brand{
+    margin-left: 300px;
+}
+.navbar-nav{
+    margin-right: 300px;
+}
+.navbar-brand h3{
+    margin-left: 20px;
+}
+.navbar-nav .nav-link{
+    margin-right: 50px;
+}
+.player img{
+    width: 56px;
+}
+.player .player-name{
+    margin-left: 20px;
+}
+main{
+    max-width: 870px;
+    
+}
+.top-player{
+    background-color:  white;
+}
+/* .player{
+    padding: 10px;
+} */
+.line{
+    width: 100%;
+    height: 1px;
+    background-color: gray;
+}
+.blog img{
+    width: 200px;
+}
+.blog .blog-name{
+    margin-left: 20px;
+}
+.back-color{
+    width: 870px;
+    background-color: white;
+}
+footer img{
+    width: 20px;
+    margin: 7px;
+    margin-top: 5px;
+}
